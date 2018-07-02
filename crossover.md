@@ -13,7 +13,7 @@ The internal test cases read the following input from stdin and passes it to the
 
 The first line contains an integer, n, denoting the number of integers in elements.
 
-Each line i of the n subsequent lines (where 0 ≤ i < n) contains an integer describing elementsi.
+Each line i of the n subsequent lines (where 0 ≤ i < n) contains an integer describing elements<sub>i</sub>.
 
 ### Constraints:
  - 1 ≤ n ≤ 10<sup>5</sup>
